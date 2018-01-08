@@ -1,8 +1,8 @@
 # Maintainer: Holmes <holmes_holmes [at] live [dot] com>
 
 pkgname=documentation-kibojoe
-pkgver=1709
-pkgrel=4
+pkgver=1802
+pkgrel=1
 pkgdesc='User Orientation Guide for Kibojoe Linux'
 license=('GPL3')
 arch=('x86_64')
