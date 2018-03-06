@@ -2,7 +2,7 @@
 
 pkgname=documentation-kibojoe
 pkgver=1802
-pkgrel=1
+pkgrel=2
 pkgdesc='User Orientation Guide for Kibojoe Linux'
 license=('GPL3')
 arch=('x86_64')
